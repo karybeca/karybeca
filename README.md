@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karybeca student B.Sc. IT & Digital Business  
 - 🌱 I’m currently learning Python, C#, JavaScript, HTML, CSS
 - 💼 Working student IT Change Management.
-- 💞️ I’m looking to collaborate on Startups or NGOs
 - 📫 How to reach me https://bit.ly/3iq4BLN
 - 📍  Stuttgart, Germany
 <!---
